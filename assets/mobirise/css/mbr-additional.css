@@ -1,0 +1,28 @@
+@import url(https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700);
+
+#ext_menu-0 .mbr-brand__name {
+  font-size: 16px;
+}
+#ext_menu-0.mbr-navbar--stuck .mbr-navbar__section {
+  background: #00a885;
+}
+#ext_menu-0 .mbr-navbar__section {
+  background: #00a885;
+}
+#ext_menu-0 .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#header4-2 H1 {
+  font-family: 'Titillium Web', sans-serif;
+  font-size: 60px;
+}
+#msg-box1-6 .mbr-header .mbr-header__text {
+  color: #fff;
+  font-size: 36px;
+}
+#msg-box1-6 .mbr-article {
+  color: #fff;
+}
+#contacts1-9 P {
+  color: #ffffff;
+}
